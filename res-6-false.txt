@@ -1,0 +1,723 @@
+2018/08/10 11:51:43  info Creating a WebSocket connection to: wss://ndt-iupui-mlab4v4-lga0t.measurement-lab.org:3020/ndt/v7/download?duration=60
+2018/08/10 11:51:43  info Starting download        
+2018/08/10 11:51:43  info client: {"elapsed":251681729,"num_bytes":8355840}
+2018/08/10 11:51:43  info server: {"elapsed":250090046,"num_bytes":9781248}
+
+2018/08/10 11:51:44  info client: {"elapsed":501781745,"num_bytes":13623338}
+2018/08/10 11:51:44  info server: {"elapsed":500056824,"num_bytes":14778368}
+
+2018/08/10 11:51:44  info client: {"elapsed":751430115,"num_bytes":17752149}
+2018/08/10 11:51:44  info server: {"elapsed":750090132,"num_bytes":18931712}
+
+2018/08/10 11:51:44  info client: {"elapsed":1000056695,"num_bytes":21676160}
+2018/08/10 11:51:44  info server: {"elapsed":1000056832,"num_bytes":23019520}
+
+2018/08/10 11:51:44  info client: {"elapsed":1250070995,"num_bytes":25804972}
+2018/08/10 11:51:44  info server: {"elapsed":1250092906,"num_bytes":27303936}
+
+2018/08/10 11:51:45  info client: {"elapsed":1501863330,"num_bytes":29450456}
+2018/08/10 11:51:45  info server: {"elapsed":1500059204,"num_bytes":30875648}
+
+2018/08/10 11:51:45  info client: {"elapsed":1750664618,"num_bytes":33161476}
+2018/08/10 11:51:45  info server: {"elapsed":1750097940,"num_bytes":34635776}
+
+2018/08/10 11:51:45  info client: {"elapsed":2000151385,"num_bytes":36266288}
+2018/08/10 11:51:45  info server: {"elapsed":2000085694,"num_bytes":37625856}
+
+2018/08/10 11:51:45  info client: {"elapsed":2250039440,"num_bytes":39362908}
+2018/08/10 11:51:45  info server: {"elapsed":2250090513,"num_bytes":40673280}
+
+2018/08/10 11:51:46  info client: {"elapsed":2503048680,"num_bytes":42344840}
+2018/08/10 11:51:46  info server: {"elapsed":2500082205,"num_bytes":43720704}
+
+2018/08/10 11:51:46  info client: {"elapsed":2752793078,"num_bytes":45662644}
+2018/08/10 11:51:46  info server: {"elapsed":2750054724,"num_bytes":46841856}
+
+2018/08/10 11:51:46  info client: {"elapsed":3000279890,"num_bytes":49701344}
+2018/08/10 11:51:46  info server: {"elapsed":3000055648,"num_bytes":51060736}
+
+2018/08/10 11:51:46  info client: {"elapsed":3252216500,"num_bytes":53150220}
+2018/08/10 11:51:46  info server: {"elapsed":3250078563,"num_bytes":54558720}
+
+2018/08/10 11:51:47  info client: {"elapsed":3504367205,"num_bytes":56066616}
+2018/08/10 11:51:47  info server: {"elapsed":3500072806,"num_bytes":57483264}
+
+2018/08/10 11:51:47  info client: {"elapsed":3752777288,"num_bytes":59556452}
+2018/08/10 11:51:47  info server: {"elapsed":3750090638,"num_bytes":61054976}
+
+2018/08/10 11:51:47  info client: {"elapsed":4000134123,"num_bytes":63390352}
+2018/08/10 11:51:47  info server: {"elapsed":4000074466,"num_bytes":64618496}
+
+2018/08/10 11:51:47  info client: {"elapsed":4250304958,"num_bytes":66175676}
+2018/08/10 11:51:47  info server: {"elapsed":4250057821,"num_bytes":67543040}
+
+2018/08/10 11:51:48  info client: {"elapsed":4500029058,"num_bytes":69141224}
+2018/08/10 11:51:48  info server: {"elapsed":4500057388,"num_bytes":70656000}
+
+2018/08/10 11:51:48  info client: {"elapsed":4753290268,"num_bytes":72336148}
+2018/08/10 11:51:48  info server: {"elapsed":4750072065,"num_bytes":73637888}
+
+2018/08/10 11:51:48  info client: {"elapsed":5001068708,"num_bytes":75408192}
+2018/08/10 11:51:48  info server: {"elapsed":5000081929,"num_bytes":76759040}
+
+2018/08/10 11:51:48  info client: {"elapsed":5254736865,"num_bytes":78480236}
+2018/08/10 11:51:48  info server: {"elapsed":5250096959,"num_bytes":79806464}
+
+2018/08/10 11:51:49  info client: {"elapsed":5500147910,"num_bytes":81609624}
+2018/08/10 11:51:49  info server: {"elapsed":5500077669,"num_bytes":82919424}
+
+2018/08/10 11:51:49  info client: {"elapsed":5750391110,"num_bytes":84673476}
+2018/08/10 11:51:49  info server: {"elapsed":5750080868,"num_bytes":85909504}
+
+2018/08/10 11:51:49  info client: {"elapsed":6001406333,"num_bytes":88196080}
+2018/08/10 11:51:49  info server: {"elapsed":6000058130,"num_bytes":89538560}
+
+2018/08/10 11:51:49  info client: {"elapsed":6250052428,"num_bytes":92398620}
+2018/08/10 11:51:49  info server: {"elapsed":6250081348,"num_bytes":93691904}
+
+2018/08/10 11:51:50  info client: {"elapsed":6502486665,"num_bytes":97182792}
+2018/08/10 11:51:50  info server: {"elapsed":6500072768,"num_bytes":98369536}
+
+2018/08/10 11:51:50  info client: {"elapsed":6753892418,"num_bytes":100836468}
+2018/08/10 11:51:50  info server: {"elapsed":6750072921,"num_bytes":101933056}
+
+2018/08/10 11:51:50  info client: {"elapsed":7000040435,"num_bytes":103916705}
+2018/08/10 11:51:50  info server: {"elapsed":7000067075,"num_bytes":104988672}
+
+2018/08/10 11:51:50  info client: {"elapsed":7251667213,"num_bytes":106702030}
+2018/08/10 11:51:50  info server: {"elapsed":7250096561,"num_bytes":107905024}
+
+2018/08/10 11:51:51  info client: {"elapsed":7500071035,"num_bytes":110068987}
+2018/08/10 11:51:51  info server: {"elapsed":7500098498,"num_bytes":111476736}
+
+2018/08/10 11:51:51  info client: {"elapsed":7751111699,"num_bytes":113034536}
+2018/08/10 11:51:51  info server: {"elapsed":7750101560,"num_bytes":114524160}
+
+2018/08/10 11:51:51  info client: {"elapsed":8000034330,"num_bytes":116499797}
+2018/08/10 11:51:51  info server: {"elapsed":8000096008,"num_bytes":118030336}
+
+2018/08/10 11:51:51  info client: {"elapsed":8250481138,"num_bytes":119072130}
+2018/08/10 11:51:51  info server: {"elapsed":8250081550,"num_bytes":120430592}
+
+2018/08/10 11:51:52  info client: {"elapsed":8503976745,"num_bytes":121644463}
+2018/08/10 11:51:52  info server: {"elapsed":8500076867,"num_bytes":122765312}
+
+2018/08/10 11:51:52  info client: {"elapsed":8753173173,"num_bytes":124667356}
+2018/08/10 11:51:52  info server: {"elapsed":8750096397,"num_bytes":125755392}
+
+2018/08/10 11:51:52  info client: {"elapsed":9003316268,"num_bytes":127526409}
+2018/08/10 11:51:52  info server: {"elapsed":9000079403,"num_bytes":128737280}
+
+2018/08/10 11:51:52  info client: {"elapsed":9253232858,"num_bytes":130836022}
+2018/08/10 11:51:52  info server: {"elapsed":9250078990,"num_bytes":132374528}
+
+2018/08/10 11:51:53  info client: {"elapsed":9503524685,"num_bytes":133908067}
+2018/08/10 11:51:53  info server: {"elapsed":9500082814,"num_bytes":135290880}
+
+2018/08/10 11:51:53  info client: {"elapsed":9751186635,"num_bytes":137438864}
+2018/08/10 11:51:53  info server: {"elapsed":9750064814,"num_bytes":138928128}
+
+2018/08/10 11:51:53  info client: {"elapsed":10001125523,"num_bytes":140535485}
+2018/08/10 11:51:53  info server: {"elapsed":10000080377,"num_bytes":141910016}
+
+2018/08/10 11:51:53  info client: {"elapsed":10250089858,"num_bytes":143902443}
+2018/08/10 11:51:53  info server: {"elapsed":10250069941,"num_bytes":144900096}
+
+2018/08/10 11:51:54  info client: {"elapsed":10500467333,"num_bytes":146466585}
+2018/08/10 11:51:54  info server: {"elapsed":10500071805,"num_bytes":147947520}
+
+2018/08/10 11:51:54  info client: {"elapsed":10753566508,"num_bytes":148907847}
+2018/08/10 11:51:54  info server: {"elapsed":10750062365,"num_bytes":150282240}
+
+2018/08/10 11:51:54  info client: {"elapsed":11001061490,"num_bytes":151103349}
+2018/08/10 11:51:54  info server: {"elapsed":11000082560,"num_bytes":152682496}
+
+2018/08/10 11:51:54  info client: {"elapsed":11250282624,"num_bytes":154871715}
+2018/08/10 11:51:54  info server: {"elapsed":11250100999,"num_bytes":156188672}
+
+2018/08/10 11:51:55  info client: {"elapsed":11500135720,"num_bytes":158918609}
+2018/08/10 11:51:55  info server: {"elapsed":11500105722,"num_bytes":160276480}
+
+2018/08/10 11:51:55  info client: {"elapsed":11750049274,"num_bytes":163850239}
+2018/08/10 11:51:55  info server: {"elapsed":11750061821,"num_bytes":164954112}
+
+2018/08/10 11:51:55  info client: {"elapsed":12000471498,"num_bytes":168929325}
+2018/08/10 11:51:55  info server: {"elapsed":12000095865,"num_bytes":170401792}
+
+2018/08/10 11:51:55  info client: {"elapsed":12250191783,"num_bytes":172755035}
+2018/08/10 11:51:55  info server: {"elapsed":12250083980,"num_bytes":173907968}
+
+2018/08/10 11:51:56  info client: {"elapsed":12503742063,"num_bytes":175696009}
+2018/08/10 11:51:56  info server: {"elapsed":12500082392,"num_bytes":176955392}
+
+2018/08/10 11:51:56  info client: {"elapsed":12750775173,"num_bytes":178530487}
+2018/08/10 11:51:56  info server: {"elapsed":12750079209,"num_bytes":179879936}
+
+2018/08/10 11:51:56  info client: {"elapsed":13000223979,"num_bytes":181135589}
+2018/08/10 11:51:56  info server: {"elapsed":13000059465,"num_bytes":182280192}
+
+2018/08/10 11:51:56  info client: {"elapsed":13251217710,"num_bytes":183650579}
+2018/08/10 11:51:56  info server: {"elapsed":13250100548,"num_bytes":185196544}
+
+2018/08/10 11:51:57  info client: {"elapsed":13500414505,"num_bytes":186886465}
+2018/08/10 11:51:57  info server: {"elapsed":13500097010,"num_bytes":188186624}
+
+2018/08/10 11:51:57  info client: {"elapsed":13750052551,"num_bytes":190794095}
+2018/08/10 11:51:57  info server: {"elapsed":13750059546,"num_bytes":192274432}
+
+2018/08/10 11:51:57  info client: {"elapsed":14000064040,"num_bytes":194415005}
+2018/08/10 11:51:57  info server: {"elapsed":14000075794,"num_bytes":195911680}
+
+2018/08/10 11:51:57  info client: {"elapsed":14251220078,"num_bytes":197364171}
+2018/08/10 11:51:57  info server: {"elapsed":14250098407,"num_bytes":198828032}
+
+2018/08/10 11:51:58  info client: {"elapsed":14501594070,"num_bytes":200223225}
+2018/08/10 11:51:58  info server: {"elapsed":14500106020,"num_bytes":201359360}
+
+2018/08/10 11:51:58  info client: {"elapsed":14753035340,"num_bytes":203131431}
+2018/08/10 11:51:58  info server: {"elapsed":14750083217,"num_bytes":204275712}
+
+2018/08/10 11:51:58  info client: {"elapsed":15000077605,"num_bytes":206621269}
+2018/08/10 11:51:58  info server: {"elapsed":15000101659,"num_bytes":207847424}
+
+2018/08/10 11:51:58  info client: {"elapsed":15250915765,"num_bytes":209996419}
+2018/08/10 11:51:58  info server: {"elapsed":15250100519,"num_bytes":211353600}
+
+2018/08/10 11:51:59  info client: {"elapsed":15500676915,"num_bytes":213551793}
+2018/08/10 11:51:59  info server: {"elapsed":15500079531,"num_bytes":214990848}
+
+2018/08/10 11:51:59  info client: {"elapsed":15750348863,"num_bytes":217762527}
+2018/08/10 11:51:59  info server: {"elapsed":15750095406,"num_bytes":219144192}
+
+2018/08/10 11:51:59  info client: {"elapsed":16001148370,"num_bytes":222669581}
+2018/08/10 11:51:59  info server: {"elapsed":16000084206,"num_bytes":224010240}
+
+2018/08/10 11:51:59  info client: {"elapsed":16252322555,"num_bytes":227240763}
+2018/08/10 11:51:59  info server: {"elapsed":16250073006,"num_bytes":228229120}
+
+2018/08/10 11:52:00  info client: {"elapsed":16500205683,"num_bytes":230214505}
+2018/08/10 11:52:00  info server: {"elapsed":16500064072,"num_bytes":231407616}
+
+2018/08/10 11:52:00  info client: {"elapsed":16750036278,"num_bytes":232885143}
+2018/08/10 11:52:00  info server: {"elapsed":16750058052,"num_bytes":234389504}
+
+2018/08/10 11:52:00  info client: {"elapsed":17000120150,"num_bytes":236129221}
+2018/08/10 11:52:00  info server: {"elapsed":17000055584,"num_bytes":237445120}
+
+2018/08/10 11:52:00  info client: {"elapsed":17253699438,"num_bytes":239143923}
+2018/08/10 11:52:00  info server: {"elapsed":17250057191,"num_bytes":240361472}
+
+2018/08/10 11:52:01  info client: {"elapsed":17501658599,"num_bytes":242813985}
+2018/08/10 11:52:01  info server: {"elapsed":17500095188,"num_bytes":243933184}
+
+2018/08/10 11:52:01  info client: {"elapsed":17751044994,"num_bytes":246901839}
+2018/08/10 11:52:01  info server: {"elapsed":17750056432,"num_bytes":248152064}
+
+2018/08/10 11:52:01  info client: {"elapsed":18000060186,"num_bytes":250588285}
+2018/08/10 11:52:01  info server: {"elapsed":18000090581,"num_bytes":251658240}
+
+2018/08/10 11:52:01  info client: {"elapsed":18250452533,"num_bytes":254913707}
+2018/08/10 11:52:01  info server: {"elapsed":18250055501,"num_bytes":256327680}
+
+2018/08/10 11:52:02  info client: {"elapsed":18501070183,"num_bytes":258862297}
+2018/08/10 11:52:02  info server: {"elapsed":18500070324,"num_bytes":259899392}
+
+2018/08/10 11:52:02  info client: {"elapsed":18750590485,"num_bytes":261467399}
+2018/08/10 11:52:02  info server: {"elapsed":18750071855,"num_bytes":262881280}
+
+2018/08/10 11:52:02  info client: {"elapsed":19003401380,"num_bytes":264056117}
+2018/08/10 11:52:02  info server: {"elapsed":19000057030,"num_bytes":265216000}
+
+2018/08/10 11:52:02  info client: {"elapsed":19250738508,"num_bytes":266734947}
+2018/08/10 11:52:02  info server: {"elapsed":19250057410,"num_bytes":268140544}
+
+2018/08/10 11:52:03  info client: {"elapsed":19502033243,"num_bytes":269520273}
+2018/08/10 11:52:03  info server: {"elapsed":19500107332,"num_bytes":270540800}
+
+2018/08/10 11:52:03  info client: {"elapsed":19754359198,"num_bytes":272240063}
+2018/08/10 11:52:03  info server: {"elapsed":19750055049,"num_bytes":273653760}
+
+2018/08/10 11:52:03  info client: {"elapsed":20002174823,"num_bytes":275279341}
+2018/08/10 11:52:03  info server: {"elapsed":20000053580,"num_bytes":276701184}
+
+2018/08/10 11:52:03  info client: {"elapsed":20250426033,"num_bytes":278318619}
+2018/08/10 11:52:03  info server: {"elapsed":20250083032,"num_bytes":279691264}
+
+2018/08/10 11:52:04  info client: {"elapsed":20501543825,"num_bytes":281529929}
+2018/08/10 11:52:04  info server: {"elapsed":20500082730,"num_bytes":282738688}
+
+2018/08/10 11:52:04  info client: {"elapsed":20750054843,"num_bytes":285494903}
+2018/08/10 11:52:04  info server: {"elapsed":20750066981,"num_bytes":286826496}
+
+2018/08/10 11:52:04  info client: {"elapsed":21000554803,"num_bytes":290098853}
+2018/08/10 11:52:04  info server: {"elapsed":21000108599,"num_bytes":291504128}
+
+2018/08/10 11:52:04  info client: {"elapsed":21251781460,"num_bytes":294211283}
+2018/08/10 11:52:04  info server: {"elapsed":21250115664,"num_bytes":295723008}
+
+2018/08/10 11:52:05  info client: {"elapsed":21500216383,"num_bytes":297242369}
+2018/08/10 11:52:05  info server: {"elapsed":21500079349,"num_bytes":298704896}
+
+2018/08/10 11:52:05  info client: {"elapsed":21750134110,"num_bytes":300281647}
+2018/08/10 11:52:05  info server: {"elapsed":21750080513,"num_bytes":301752320}
+
+2018/08/10 11:52:05  info client: {"elapsed":22001718793,"num_bytes":303427421}
+2018/08/10 11:52:05  info server: {"elapsed":22000077543,"num_bytes":304742400}
+
+2018/08/10 11:52:05  info client: {"elapsed":22251382733,"num_bytes":307056523}
+2018/08/10 11:52:05  info server: {"elapsed":22250085074,"num_bytes":308305920}
+
+2018/08/10 11:52:06  info client: {"elapsed":22500139863,"num_bytes":309891001}
+2018/08/10 11:52:06  info server: {"elapsed":22500078874,"num_bytes":311296000}
+
+2018/08/10 11:52:06  info client: {"elapsed":22750322485,"num_bytes":312643559}
+2018/08/10 11:52:06  info server: {"elapsed":22750095640,"num_bytes":313630720}
+
+2018/08/10 11:52:06  info client: {"elapsed":23001070088,"num_bytes":315953173}
+2018/08/10 11:52:06  info server: {"elapsed":23000082073,"num_bytes":317267968}
+
+2018/08/10 11:52:06  info client: {"elapsed":23250969613,"num_bytes":318787651}
+2018/08/10 11:52:06  info server: {"elapsed":23250078809,"num_bytes":320249856}
+
+2018/08/10 11:52:07  info client: {"elapsed":23502465950,"num_bytes":322293873}
+2018/08/10 11:52:07  info server: {"elapsed":23500094053,"num_bytes":323239936}
+
+2018/08/10 11:52:07  info client: {"elapsed":23750821213,"num_bytes":325136543}
+2018/08/10 11:52:07  info server: {"elapsed":23750060023,"num_bytes":326287360}
+
+2018/08/10 11:52:07  info client: {"elapsed":24004323723,"num_bytes":327848141}
+2018/08/10 11:52:07  info server: {"elapsed":24000066439,"num_bytes":329203712}
+
+2018/08/10 11:52:07  info client: {"elapsed":24251165203,"num_bytes":331247867}
+2018/08/10 11:52:07  info server: {"elapsed":24250072496,"num_bytes":332709888}
+
+2018/08/10 11:52:08  info client: {"elapsed":24500180595,"num_bytes":335229225}
+2018/08/10 11:52:08  info server: {"elapsed":24500078766,"num_bytes":336347136}
+
+2018/08/10 11:52:08  info client: {"elapsed":24750057595,"num_bytes":337719639}
+2018/08/10 11:52:08  info server: {"elapsed":24750080393,"num_bytes":338747392}
+
+2018/08/10 11:52:08  info client: {"elapsed":25000180288,"num_bytes":340578693}
+2018/08/10 11:52:08  info server: {"elapsed":25000298739,"num_bytes":341729280}
+
+2018/08/10 11:52:08  info client: {"elapsed":25250092035,"num_bytes":343642547}
+2018/08/10 11:52:08  info server: {"elapsed":25250067555,"num_bytes":344850432}
+
+2018/08/10 11:52:09  info client: {"elapsed":25500420035,"num_bytes":346763745}
+2018/08/10 11:52:09  info server: {"elapsed":25500056533,"num_bytes":347766784}
+
+2018/08/10 11:52:09  info client: {"elapsed":25751036520,"num_bytes":350597647}
+2018/08/10 11:52:09  info server: {"elapsed":25750052779,"num_bytes":352116736}
+
+2018/08/10 11:52:09  info client: {"elapsed":26001662708,"num_bytes":355054141}
+2018/08/10 11:52:09  info server: {"elapsed":26000052587,"num_bytes":356335616}
+
+2018/08/10 11:52:09  info client: {"elapsed":26251866425,"num_bytes":358806123}
+2018/08/10 11:52:09  info server: {"elapsed":26250059840,"num_bytes":359964672}
+
+2018/08/10 11:52:10  info client: {"elapsed":26501480363,"num_bytes":363016857}
+2018/08/10 11:52:10  info server: {"elapsed":26500053125,"num_bytes":364118016}
+
+2018/08/10 11:52:10  info client: {"elapsed":26750056030,"num_bytes":366604999}
+2018/08/10 11:52:10  info server: {"elapsed":26750059449,"num_bytes":367689728}
+
+2018/08/10 11:52:10  info client: {"elapsed":27000898328,"num_bytes":370201333}
+2018/08/10 11:52:10  info server: {"elapsed":27000064458,"num_bytes":371261440}
+
+2018/08/10 11:52:10  info client: {"elapsed":27254091058,"num_bytes":372708131}
+2018/08/10 11:52:10  info server: {"elapsed":27250054043,"num_bytes":374177792}
+
+2018/08/10 11:52:11  info client: {"elapsed":27503407818,"num_bytes":375231313}
+2018/08/10 11:52:11  info server: {"elapsed":27500054256,"num_bytes":376578048}
+
+2018/08/10 11:52:11  info client: {"elapsed":27753116155,"num_bytes":377385855}
+2018/08/10 11:52:11  info server: {"elapsed":27750055524,"num_bytes":378920960}
+
+2018/08/10 11:52:11  info client: {"elapsed":28000080113,"num_bytes":379884461}
+2018/08/10 11:52:11  info server: {"elapsed":28000056522,"num_bytes":381255680}
+
+2018/08/10 11:52:11  info client: {"elapsed":28250043980,"num_bytes":383112155}
+2018/08/10 11:52:11  info server: {"elapsed":28250053224,"num_bytes":384237568}
+
+2018/08/10 11:52:12  info client: {"elapsed":28500482708,"num_bytes":387085321}
+2018/08/10 11:52:12  info server: {"elapsed":28500055333,"num_bytes":388456448}
+
+2018/08/10 11:52:12  info client: {"elapsed":28750688170,"num_bytes":390968375}
+2018/08/10 11:52:12  info server: {"elapsed":28750054122,"num_bytes":392224768}
+
+2018/08/10 11:52:12  info client: {"elapsed":29000295413,"num_bytes":394810469}
+2018/08/10 11:52:12  info server: {"elapsed":29000084076,"num_bytes":395788288}
+
+2018/08/10 11:52:12  info client: {"elapsed":29251486915,"num_bytes":398103699}
+2018/08/10 11:52:12  info server: {"elapsed":29250079613,"num_bytes":399294464}
+
+2018/08/10 11:52:13  info client: {"elapsed":29500236948,"num_bytes":401634497}
+2018/08/10 11:52:13  info server: {"elapsed":29500082747,"num_bytes":402866176}
+
+2018/08/10 11:52:13  info client: {"elapsed":29752042730,"num_bytes":403903727}
+2018/08/10 11:52:13  info server: {"elapsed":29750087905,"num_bytes":405200896}
+
+2018/08/10 11:52:13  info client: {"elapsed":30004130000,"num_bytes":406803741}
+2018/08/10 11:52:13  info server: {"elapsed":30000095100,"num_bytes":408182784}
+
+2018/08/10 11:52:13  info client: {"elapsed":30251740733,"num_bytes":410481995}
+2018/08/10 11:52:13  info server: {"elapsed":30250078390,"num_bytes":411688960}
+
+2018/08/10 11:52:14  info client: {"elapsed":30502478110,"num_bytes":414791033}
+2018/08/10 11:52:14  info server: {"elapsed":30500099989,"num_bytes":415842304}
+
+2018/08/10 11:52:14  info client: {"elapsed":30752534415,"num_bytes":417895847}
+2018/08/10 11:52:14  info server: {"elapsed":30750080561,"num_bytes":419348480}
+
+2018/08/10 11:52:14  info client: {"elapsed":31000197498,"num_bytes":420943317}
+2018/08/10 11:52:14  info server: {"elapsed":31000062682,"num_bytes":422273024}
+
+2018/08/10 11:52:14  info client: {"elapsed":31250410665,"num_bytes":423998979}
+2018/08/10 11:52:14  info server: {"elapsed":31250079804,"num_bytes":425320448}
+
+2018/08/10 11:52:15  info client: {"elapsed":31500503808,"num_bytes":427128369}
+2018/08/10 11:52:15  info server: {"elapsed":31500080049,"num_bytes":428302336}
+
+2018/08/10 11:52:15  info client: {"elapsed":31753590553,"num_bytes":430986847}
+2018/08/10 11:52:15  info server: {"elapsed":31750080704,"num_bytes":431939584}
+
+2018/08/10 11:52:15  info client: {"elapsed":32005080930,"num_bytes":434337421}
+2018/08/10 11:52:15  info server: {"elapsed":32000080486,"num_bytes":435634176}
+
+2018/08/10 11:52:15  info client: {"elapsed":32250102120,"num_bytes":437081787}
+2018/08/10 11:52:15  info server: {"elapsed":32250081900,"num_bytes":438099968}
+
+2018/08/10 11:52:16  info client: {"elapsed":32502368653,"num_bytes":439678697}
+2018/08/10 11:52:16  info server: {"elapsed":32500054889,"num_bytes":441155584}
+
+2018/08/10 11:52:16  info client: {"elapsed":32753621650,"num_bytes":442537751}
+2018/08/10 11:52:16  info server: {"elapsed":32750095697,"num_bytes":443686912}
+
+2018/08/10 11:52:16  info client: {"elapsed":33002997625,"num_bytes":446027589}
+2018/08/10 11:52:16  info server: {"elapsed":33000047935,"num_bytes":447447040}
+
+2018/08/10 11:52:16  info client: {"elapsed":33254096485,"num_bytes":448976755}
+2018/08/10 11:52:16  info server: {"elapsed":33250079391,"num_bytes":450437120}
+
+2018/08/10 11:52:17  info client: {"elapsed":33500077828,"num_bytes":451647393}
+2018/08/10 11:52:17  info server: {"elapsed":33500059384,"num_bytes":452837376}
+
+2018/08/10 11:52:17  info client: {"elapsed":33753346288,"num_bytes":454899663}
+2018/08/10 11:52:17  info server: {"elapsed":33750060807,"num_bytes":456466432}
+
+2018/08/10 11:52:17  info client: {"elapsed":34000608085,"num_bytes":457775101}
+2018/08/10 11:52:17  info server: {"elapsed":34000081137,"num_bytes":458809344}
+
+2018/08/10 11:52:17  info client: {"elapsed":34251330498,"num_bytes":460306475}
+2018/08/10 11:52:17  info server: {"elapsed":34250079557,"num_bytes":461791232}
+
+2018/08/10 11:52:18  info client: {"elapsed":34501065255,"num_bytes":462551129}
+2018/08/10 11:52:18  info server: {"elapsed":34500057295,"num_bytes":463609856}
+
+2018/08/10 11:52:18  info client: {"elapsed":34752323310,"num_bytes":465238151}
+2018/08/10 11:52:18  info server: {"elapsed":34750056555,"num_bytes":466722816}
+
+2018/08/10 11:52:18  info client: {"elapsed":35000137595,"num_bytes":468695221}
+2018/08/10 11:52:18  info server: {"elapsed":35000080338,"num_bytes":469704704}
+
+2018/08/10 11:52:18  info client: {"elapsed":35250242093,"num_bytes":472783075}
+2018/08/10 11:52:18  info server: {"elapsed":35250082138,"num_bytes":473989120}
+
+2018/08/10 11:52:19  info client: {"elapsed":35502058108,"num_bytes":476436753}
+2018/08/10 11:52:19  info server: {"elapsed":35500081062,"num_bytes":477495296}
+
+2018/08/10 11:52:19  info client: {"elapsed":35750039805,"num_bytes":479820095}
+2018/08/10 11:52:19  info server: {"elapsed":35750078223,"num_bytes":481067008}
+
+2018/08/10 11:52:19  info client: {"elapsed":36000314715,"num_bytes":483162477}
+2018/08/10 11:52:19  info server: {"elapsed":36000075978,"num_bytes":484048896}
+
+2018/08/10 11:52:19  info client: {"elapsed":36250041848,"num_bytes":486177179}
+2018/08/10 11:52:19  info server: {"elapsed":36250079732,"num_bytes":487170048}
+
+2018/08/10 11:52:20  info client: {"elapsed":36501705156,"num_bytes":489920969}
+2018/08/10 11:52:20  info server: {"elapsed":36500075893,"num_bytes":491446272}
+
+2018/08/10 11:52:20  info client: {"elapsed":36750036823,"num_bytes":494197239}
+2018/08/10 11:52:20  info server: {"elapsed":36750080615,"num_bytes":495214592}
+
+2018/08/10 11:52:20  info client: {"elapsed":37000066110,"num_bytes":497818149}
+2018/08/10 11:52:20  info server: {"elapsed":37000078248,"num_bytes":498925568}
+
+2018/08/10 11:52:20  info client: {"elapsed":37250340558,"num_bytes":501529171}
+2018/08/10 11:52:20  info server: {"elapsed":37250097195,"num_bytes":502996992}
+
+2018/08/10 11:52:21  info client: {"elapsed":37500658418,"num_bytes":505068161}
+2018/08/10 11:52:21  info server: {"elapsed":37500058502,"num_bytes":505987072}
+
+2018/08/10 11:52:21  info client: {"elapsed":37751310494,"num_bytes":508484271}
+2018/08/10 11:52:21  info server: {"elapsed":37750080497,"num_bytes":509747200}
+
+2018/08/10 11:52:21  info client: {"elapsed":38000048633,"num_bytes":511703773}
+2018/08/10 11:52:21  info server: {"elapsed":38000110919,"num_bytes":512737280}
+
+2018/08/10 11:52:21  info client: {"elapsed":38251865378,"num_bytes":514669323}
+2018/08/10 11:52:21  info server: {"elapsed":38250096971,"num_bytes":515784704}
+
+2018/08/10 11:52:22  info client: {"elapsed":38500827893,"num_bytes":517995321}
+2018/08/10 11:52:22  info server: {"elapsed":38500083322,"num_bytes":519487488}
+
+2018/08/10 11:52:22  info client: {"elapsed":38750485618,"num_bytes":521116519}
+2018/08/10 11:52:22  info server: {"elapsed":38750084656,"num_bytes":522534912}
+
+2018/08/10 11:52:22  info client: {"elapsed":39000518205,"num_bytes":524762005}
+2018/08/10 11:52:22  info server: {"elapsed":39000083986,"num_bytes":526295040}
+
+2018/08/10 11:52:22  info client: {"elapsed":39251915510,"num_bytes":527924163}
+2018/08/10 11:52:22  info server: {"elapsed":39250096183,"num_bytes":529350656}
+
+2018/08/10 11:52:23  info client: {"elapsed":39500604473,"num_bytes":531667953}
+2018/08/10 11:52:23  info server: {"elapsed":39500103842,"num_bytes":533045248}
+
+2018/08/10 11:52:23  info client: {"elapsed":39750069095,"num_bytes":534985759}
+2018/08/10 11:52:23  info server: {"elapsed":39750082274,"num_bytes":536100864}
+
+2018/08/10 11:52:23  info client: {"elapsed":40000944873,"num_bytes":538958925}
+2018/08/10 11:52:23  info server: {"elapsed":40000107272,"num_bytes":540254208}
+
+2018/08/10 11:52:23  info client: {"elapsed":40252704250,"num_bytes":543169659}
+2018/08/10 11:52:23  info server: {"elapsed":40250080910,"num_bytes":544538624}
+
+2018/08/10 11:52:24  info client: {"elapsed":40501260145,"num_bytes":546462889}
+2018/08/10 11:52:24  info server: {"elapsed":40500091532,"num_bytes":547586048}
+
+2018/08/10 11:52:24  info client: {"elapsed":40754096603,"num_bytes":549567703}
+2018/08/10 11:52:24  info server: {"elapsed":40750080031,"num_bytes":550567936}
+
+2018/08/10 11:52:24  info client: {"elapsed":41000580345,"num_bytes":552992005}
+2018/08/10 11:52:24  info server: {"elapsed":41000090213,"num_bytes":554467328}
+
+2018/08/10 11:52:24  info client: {"elapsed":41252730303,"num_bytes":556121395}
+2018/08/10 11:52:24  info server: {"elapsed":41250096527,"num_bytes":557514752}
+
+2018/08/10 11:52:25  info client: {"elapsed":41501075068,"num_bytes":559390049}
+2018/08/10 11:52:25  info server: {"elapsed":41500082153,"num_bytes":560496640}
+
+2018/08/10 11:52:25  info client: {"elapsed":41750725108,"num_bytes":562683279}
+2018/08/10 11:52:25  info server: {"elapsed":41750084519,"num_bytes":564133888}
+
+2018/08/10 11:52:25  info client: {"elapsed":42001352698,"num_bytes":566672829}
+2018/08/10 11:52:25  info server: {"elapsed":42000064392,"num_bytes":567771136}
+
+2018/08/10 11:52:25  info client: {"elapsed":42252737428,"num_bytes":571227627}
+2018/08/10 11:52:25  info server: {"elapsed":42250058421,"num_bytes":572571648}
+
+2018/08/10 11:52:26  info client: {"elapsed":42500341552,"num_bytes":576667161}
+2018/08/10 11:52:26  info server: {"elapsed":42500077753,"num_bytes":577880064}
+
+2018/08/10 11:52:26  info client: {"elapsed":42753361098,"num_bytes":582024775}
+2018/08/10 11:52:26  info server: {"elapsed":42750082929,"num_bytes":582950912}
+
+2018/08/10 11:52:26  info client: {"elapsed":43000638370,"num_bytes":586251893}
+2018/08/10 11:52:26  info server: {"elapsed":43000086187,"num_bytes":587628544}
+
+2018/08/10 11:52:26  info client: {"elapsed":43253334198,"num_bytes":590298787}
+2018/08/10 11:52:26  info server: {"elapsed":43250080456,"num_bytes":591200256}
+
+2018/08/10 11:52:27  info client: {"elapsed":43501689395,"num_bytes":594075345}
+2018/08/10 11:52:27  info server: {"elapsed":43500082443,"num_bytes":595476480}
+
+2018/08/10 11:52:27  info client: {"elapsed":43751590205,"num_bytes":597925631}
+2018/08/10 11:52:27  info server: {"elapsed":43750079877,"num_bytes":599179264}
+
+2018/08/10 11:52:27  info client: {"elapsed":44001812263,"num_bytes":601358125}
+2018/08/10 11:52:27  info server: {"elapsed":44000083600,"num_bytes":602816512}
+
+2018/08/10 11:52:27  info client: {"elapsed":44254435798,"num_bytes":604331867}
+2018/08/10 11:52:27  info server: {"elapsed":44250085455,"num_bytes":605282304}
+
+2018/08/10 11:52:28  info client: {"elapsed":44502074408,"num_bytes":607707017}
+2018/08/10 11:52:28  info server: {"elapsed":44500084099,"num_bytes":608845824}
+
+2018/08/10 11:52:28  info client: {"elapsed":44751696845,"num_bytes":610762679}
+2018/08/10 11:52:28  info server: {"elapsed":44750089551,"num_bytes":611966976}
+
+2018/08/10 11:52:28  info client: {"elapsed":45003601053,"num_bytes":614260709}
+2018/08/10 11:52:28  info server: {"elapsed":45000083680,"num_bytes":615530496}
+
+2018/08/10 11:52:28  info client: {"elapsed":45252952478,"num_bytes":617267219}
+2018/08/10 11:52:28  info server: {"elapsed":45250106561,"num_bytes":618708992}
+
+2018/08/10 11:52:29  info client: {"elapsed":45500232483,"num_bytes":620781633}
+2018/08/10 11:52:29  info server: {"elapsed":45500091174,"num_bytes":621830144}
+
+2018/08/10 11:52:29  info client: {"elapsed":45750725220,"num_bytes":624345199}
+2018/08/10 11:52:29  info server: {"elapsed":45750097854,"num_bytes":625524736}
+
+2018/08/10 11:52:29  info client: {"elapsed":46001664425,"num_bytes":627974301}
+2018/08/10 11:52:29  info server: {"elapsed":46000100886,"num_bytes":629096448}
+
+2018/08/10 11:52:29  info client: {"elapsed":46251893738,"num_bytes":631177419}
+2018/08/10 11:52:29  info server: {"elapsed":46250081051,"num_bytes":632668160}
+
+2018/08/10 11:52:30  info client: {"elapsed":46503074268,"num_bytes":634347769}
+2018/08/10 11:52:30  info server: {"elapsed":46500089035,"num_bytes":635584512}
+
+2018/08/10 11:52:30  info client: {"elapsed":46750069123,"num_bytes":637428007}
+2018/08/10 11:52:30  info server: {"elapsed":46750082741,"num_bytes":638574592}
+
+2018/08/10 11:52:30  info client: {"elapsed":47002701848,"num_bytes":640811349}
+2018/08/10 11:52:30  info server: {"elapsed":47000082094,"num_bytes":642334720}
+
+2018/08/10 11:52:30  info client: {"elapsed":47250124558,"num_bytes":643965315}
+2018/08/10 11:52:30  info server: {"elapsed":47250077386,"num_bytes":645382144}
+
+2018/08/10 11:52:31  info client: {"elapsed":47500491679,"num_bytes":647233969}
+2018/08/10 11:52:31  info server: {"elapsed":47500055167,"num_bytes":648568832}
+
+2018/08/10 11:52:31  info client: {"elapsed":47750100425,"num_bytes":650707423}
+2018/08/10 11:52:31  info server: {"elapsed":47750059222,"num_bytes":652132352}
+
+2018/08/10 11:52:31  info client: {"elapsed":48001995813,"num_bytes":653812237}
+2018/08/10 11:52:31  info server: {"elapsed":48000060733,"num_bytes":655122432}
+
+2018/08/10 11:52:31  info client: {"elapsed":48251324703,"num_bytes":656974395}
+2018/08/10 11:52:31  info server: {"elapsed":48250071574,"num_bytes":658235392}
+
+2018/08/10 11:52:32  info client: {"elapsed":48502340263,"num_bytes":659939945}
+2018/08/10 11:52:32  info server: {"elapsed":48500110603,"num_bytes":661151744}
+
+2018/08/10 11:52:32  info client: {"elapsed":48753155816,"num_bytes":663863959}
+2018/08/10 11:52:32  info server: {"elapsed":48750060911,"num_bytes":664788992}
+
+2018/08/10 11:52:32  info client: {"elapsed":49001913748,"num_bytes":668287685}
+2018/08/10 11:52:32  info server: {"elapsed":49000063037,"num_bytes":669523968}
+
+2018/08/10 11:52:32  info client: {"elapsed":49252315013,"num_bytes":671965939}
+2018/08/10 11:52:32  info server: {"elapsed":49250058923,"num_bytes":673161216}
+
+2018/08/10 11:52:33  info client: {"elapsed":49500761488,"num_bytes":675439393}
+2018/08/10 11:52:33  info server: {"elapsed":49500058286,"num_bytes":676732928}
+
+2018/08/10 11:52:33  info client: {"elapsed":49753394653,"num_bytes":678896463}
+2018/08/10 11:52:33  info server: {"elapsed":49750053284,"num_bytes":679845888}
+
+2018/08/10 11:52:33  info client: {"elapsed":50000274588,"num_bytes":682992509}
+2018/08/10 11:52:33  info server: {"elapsed":50000053657,"num_bytes":684195840}
+
+2018/08/10 11:52:33  info client: {"elapsed":50253248545,"num_bytes":686588843}
+2018/08/10 11:52:33  info server: {"elapsed":50250054553,"num_bytes":687759360}
+
+2018/08/10 11:52:34  info client: {"elapsed":50502295953,"num_bytes":690422745}
+2018/08/10 11:52:34  info server: {"elapsed":50500051527,"num_bytes":691978240}
+
+2018/08/10 11:52:34  info client: {"elapsed":50750128735,"num_bytes":693568519}
+2018/08/10 11:52:34  info server: {"elapsed":50750053972,"num_bytes":694968320}
+
+2018/08/10 11:52:34  info client: {"elapsed":51004759878,"num_bytes":696624181}
+2018/08/10 11:52:34  info server: {"elapsed":51000057701,"num_bytes":697950208}
+
+2018/08/10 11:52:34  info client: {"elapsed":51252391685,"num_bytes":699425891}
+2018/08/10 11:52:34  info server: {"elapsed":51250060868,"num_bytes":700416000}
+
+2018/08/10 11:52:35  info client: {"elapsed":51505176868,"num_bytes":702596241}
+2018/08/10 11:52:35  info server: {"elapsed":51500086334,"num_bytes":703528960}
+
+2018/08/10 11:52:35  info client: {"elapsed":51750974895,"num_bytes":705422527}
+2018/08/10 11:52:35  info server: {"elapsed":51750057587,"num_bytes":706584576}
+
+2018/08/10 11:52:35  info client: {"elapsed":52001319161,"num_bytes":708732141}
+2018/08/10 11:52:35  info server: {"elapsed":52000068424,"num_bytes":710279168}
+
+2018/08/10 11:52:35  info client: {"elapsed":52250214215,"num_bytes":711992603}
+2018/08/10 11:52:35  info server: {"elapsed":52250059659,"num_bytes":713269248}
+
+2018/08/10 11:52:36  info client: {"elapsed":52500339570,"num_bytes":715277641}
+2018/08/10 11:52:36  info server: {"elapsed":52500079937,"num_bytes":716251136}
+
+2018/08/10 11:52:36  info client: {"elapsed":52750250188,"num_bytes":718316919}
+2018/08/10 11:52:36  info server: {"elapsed":52750080230,"num_bytes":719429632}
+
+2018/08/10 11:52:36  info client: {"elapsed":53003736353,"num_bytes":722068901}
+2018/08/10 11:52:36  info server: {"elapsed":53000099122,"num_bytes":723132416}
+
+2018/08/10 11:52:36  info client: {"elapsed":53250058556,"num_bytes":726558163}
+2018/08/10 11:52:36  info server: {"elapsed":53250071497,"num_bytes":727867392}
+
+2018/08/10 11:52:37  info client: {"elapsed":53500391999,"num_bytes":731842049}
+2018/08/10 11:52:37  info server: {"elapsed":53500082005,"num_bytes":733126656}
+
+2018/08/10 11:52:37  info client: {"elapsed":53750142610,"num_bytes":737863215}
+2018/08/10 11:52:37  info server: {"elapsed":53750057181,"num_bytes":739229696}
+
+2018/08/10 11:52:37  info client: {"elapsed":54004026924,"num_bytes":744711773}
+2018/08/10 11:52:37  info server: {"elapsed":54000063724,"num_bytes":745848832}
+
+2018/08/10 11:52:37  info client: {"elapsed":54252445419,"num_bytes":752199307}
+2018/08/10 11:52:37  info server: {"elapsed":54250098214,"num_bytes":753377280}
+
+2018/08/10 11:52:38  info client: {"elapsed":54500053738,"num_bytes":758834873}
+2018/08/10 11:52:38  info server: {"elapsed":54500098763,"num_bytes":759734272}
+
+2018/08/10 11:52:38  info client: {"elapsed":54750072185,"num_bytes":765265639}
+2018/08/10 11:52:38  info server: {"elapsed":54750081454,"num_bytes":766484480}
+
+2018/08/10 11:52:38  info client: {"elapsed":55000689713,"num_bytes":772499221}
+2018/08/10 11:52:38  info server: {"elapsed":55000057950,"num_bytes":773685248}
+
+2018/08/10 11:52:38  info client: {"elapsed":55250182498,"num_bytes":778700611}
+2018/08/10 11:52:38  info server: {"elapsed":55250058894,"num_bytes":780115968}
+
+2018/08/10 11:52:39  info client: {"elapsed":55500556440,"num_bytes":782165873}
+2018/08/10 11:52:39  info server: {"elapsed":55500059256,"num_bytes":783679488}
+
+2018/08/10 11:52:39  info client: {"elapsed":55752091033,"num_bytes":784639903}
+2018/08/10 11:52:39  info server: {"elapsed":55750054964,"num_bytes":786079744}
+
+2018/08/10 11:52:39  info client: {"elapsed":56003442770,"num_bytes":787802061}
+2018/08/10 11:52:39  info server: {"elapsed":56000075266,"num_bytes":789200896}
+
+2018/08/10 11:52:39  info client: {"elapsed":56250557660,"num_bytes":790964219}
+2018/08/10 11:52:39  info server: {"elapsed":56250076882,"num_bytes":792117248}
+
+2018/08/10 11:52:40  info client: {"elapsed":56502747403,"num_bytes":794224681}
+2018/08/10 11:52:40  info server: {"elapsed":56500055168,"num_bytes":795688960}
+
+2018/08/10 11:52:40  info client: {"elapsed":56754490544,"num_bytes":797272151}
+2018/08/10 11:52:40  info server: {"elapsed":56750085326,"num_bytes":798736384}
+
+2018/08/10 11:52:40  info client: {"elapsed":57000042668,"num_bytes":800761989}
+2018/08/10 11:52:40  info server: {"elapsed":57000100296,"num_bytes":801783808}
+
+2018/08/10 11:52:40  info client: {"elapsed":57250834160,"num_bytes":804956339}
+2018/08/10 11:52:40  info server: {"elapsed":57250103326,"num_bytes":806068224}
+
+2018/08/10 11:52:41  info client: {"elapsed":57500962902,"num_bytes":808528097}
+2018/08/10 11:52:41  info server: {"elapsed":57500084973,"num_bytes":809836544}
+
+2018/08/10 11:52:41  info client: {"elapsed":57750297368,"num_bytes":812607759}
+2018/08/10 11:52:41  info server: {"elapsed":57750055921,"num_bytes":813989888}
+
+2018/08/10 11:52:41  info client: {"elapsed":58004849398,"num_bytes":817490237}
+2018/08/10 11:52:41  info server: {"elapsed":58000095901,"num_bytes":818790400}
+
+2018/08/10 11:52:41  info client: {"elapsed":58250396508,"num_bytes":820889963}
+2018/08/10 11:52:41  info server: {"elapsed":58250100555,"num_bytes":822427648}
+
+2018/08/10 11:52:42  info client: {"elapsed":58500149838,"num_bytes":823912857}
+2018/08/10 11:52:42  info server: {"elapsed":58500078473,"num_bytes":825475072}
+
+2018/08/10 11:52:42  info client: {"elapsed":58750138883,"num_bytes":826837447}
+2018/08/10 11:52:42  info server: {"elapsed":58750110954,"num_bytes":827875328}
+
+2018/08/10 11:52:42  info client: {"elapsed":59000224526,"num_bytes":830179829}
+2018/08/10 11:52:42  info server: {"elapsed":59000081375,"num_bytes":831643648}
+
+2018/08/10 11:52:42  info client: {"elapsed":59250209330,"num_bytes":833514019}
+2018/08/10 11:52:42  info server: {"elapsed":59250103160,"num_bytes":834691072}
+
+2018/08/10 11:52:43  info client: {"elapsed":59500072480,"num_bytes":836921937}
+2018/08/10 11:52:43  info server: {"elapsed":59500075941,"num_bytes":838328320}
+
+2018/08/10 11:52:43  info client: {"elapsed":59751539065,"num_bytes":841108095}
+2018/08/10 11:52:43  info server: {"elapsed":59750080599,"num_bytes":842481664}
+
+2018/08/10 11:52:43  info client: {"elapsed":60004026300,"num_bytes":844974765}
+2018/08/10 11:52:43  info server: {"elapsed":60000079864,"num_bytes":846176256}
+
+2018/08/10 11:52:43  info Download complete        
